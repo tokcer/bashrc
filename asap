@@ -5,7 +5,7 @@ esac
 
 trap 'echo -e "\n\e[1;31m[!] Santai bang, ASAP DISINI !!!\e[0m\n"; continue' INT
 
-expected_hash="d061e7286f10c7e77e84e921171c5634028ad43cc2475c88b85c5d92a8015966"
+expected_hash="9554cfc82318a8fb3581e7eb7da32698f667109a3cd895b11b876383b8d4c1f9"
 input_hash=""
 
 echo -e "\e[1;36m======================================\e[0m"
